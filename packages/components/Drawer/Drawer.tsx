@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react';
 import RcDrawer from 'rc-drawer';
-import 'rc-drawer/assets/index.css';
+import 'rc-drawer/assets/index.css'; 
 
 type DrawerProps = {
   className?: string;
